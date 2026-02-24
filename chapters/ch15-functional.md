@@ -451,7 +451,7 @@ for m in high_exp_monsters:
 
 ---
 
-## 15.8 本章小結
+## 練習題
 
 ### 基礎題
 
